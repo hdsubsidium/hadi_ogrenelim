@@ -8,6 +8,11 @@
 ```
 A new Flutter project.
 
+## Uygulama 
+<p align="center"><img src="/demo.gif"></p>
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
